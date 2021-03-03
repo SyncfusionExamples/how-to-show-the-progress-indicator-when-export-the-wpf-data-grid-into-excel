@@ -3,7 +3,7 @@
 ## About the sample
 This example illustrates how to show the progress indicator when export the WPF DataGrid (SfDataGrid) into Excel 
 
-By default, [SfDataGrid](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html) does not provide the support to show the progress indicator when export to excel. You can show the progress indicator when export to excel by using the busy Indicator in [SfDataGrid](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html).
+By default, [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) does not provide the support to show the progress indicator when export to excel. You can show the progress indicator when export to excel by using the busy Indicator in [SfDataGrid](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html).
 
 ```C#
 
