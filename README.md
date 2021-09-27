@@ -60,6 +60,8 @@ private async void btnExport_Click(object sender, RoutedEventArgs e)
 
 ![Shows the progress indicator while export to excel in SfDataGrid](ShowstheProgressIndicator.gif)
 
+KB article - [How to show the progress indicator when export the WPF DataGrid (SfDataGrid) into Excel?](https://www.syncfusion.com/kb/12046/how-to-show-the-progress-indicator-when-export-the-wpf-datagrid-sfdatagrid-into-excel)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
