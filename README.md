@@ -1,4 +1,4 @@
-# How to Sshow the Progress Indicator When Export the WPF DataGrid into Excel?
+# How to Show the Progress Indicator When Export the WPF DataGrid into Excel?
 
 This example illustrates how to show the progress indicator when export the [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid) into Excel.
 
